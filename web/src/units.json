@@ -1,0 +1,1279 @@
+{
+ "Volume": [
+  {
+   "name": "Milliliters",
+   "abbr": "mL",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Cubic centimeters",
+   "abbr": "cm³",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Liters",
+   "abbr": "L",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000
+  },
+  {
+   "name": "Cubic meters",
+   "abbr": "m³",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000000
+  },
+  {
+   "name": "Teaspoons (US)",
+   "abbr": "tsp. (US)",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 4.92892159375
+  },
+  {
+   "name": "Tablespoons (US)",
+   "abbr": "tbsp. (US)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 14.78676478125
+  },
+  {
+   "name": "Fluid ounces (US)",
+   "abbr": "fl oz (US)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 29.5735295625
+  },
+  {
+   "name": "Cups (US)",
+   "abbr": "cup (US)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 236.588237
+  },
+  {
+   "name": "Pints (US)",
+   "abbr": "pt (US)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 473.176473
+  },
+  {
+   "name": "Quarts (US)",
+   "abbr": "qt (US)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 946.352946
+  },
+  {
+   "name": "Gallons (US)",
+   "abbr": "gal (US)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 3785.411784
+  },
+  {
+   "name": "Cubic inches",
+   "abbr": "in³",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 16.387064
+  },
+  {
+   "name": "Cubic feet",
+   "abbr": "ft³",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 28316.846592
+  },
+  {
+   "name": "Cubic yards",
+   "abbr": "yd³",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 764554.857984
+  },
+  {
+   "name": "Teaspoons (UK)",
+   "abbr": "tsp. (UK)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 5.919388020833333
+  },
+  {
+   "name": "Tablespoons (UK)",
+   "abbr": "tbsp. (UK)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 17.7581640625
+  },
+  {
+   "name": "Fluid ounces (UK)",
+   "abbr": "fl oz (UK)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 28.4130625
+  },
+  {
+   "name": "Pints (UK)",
+   "abbr": "pt (UK)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 568.26125
+  },
+  {
+   "name": "Quarts (UK)",
+   "abbr": "qt (UK)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1136.5225
+  },
+  {
+   "name": "Gallons (UK)",
+   "abbr": "gal (UK)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 4546.09
+  },
+  {
+   "name": "coffee cups",
+   "abbr": "coffee cups",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 236.5882
+  },
+  {
+   "name": "bathtubs",
+   "abbr": "bathtubs",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 378541.2
+  },
+  {
+   "name": "swimming pools",
+   "abbr": "swimming pools",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 3750000000
+  }
+ ],
+ "Length": [
+  {
+   "name": "Angstroms",
+   "abbr": "A",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1e-10
+  },
+  {
+   "name": "Nanometers",
+   "abbr": "nm",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1e-09
+  },
+  {
+   "name": "Microns",
+   "abbr": "µm",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1e-06
+  },
+  {
+   "name": "Millimeters",
+   "abbr": "mm",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.001
+  },
+  {
+   "name": "Centimeters",
+   "abbr": "cm",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.01
+  },
+  {
+   "name": "Meters",
+   "abbr": "m",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Kilometers",
+   "abbr": "km",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000
+  },
+  {
+   "name": "Inches",
+   "abbr": "in",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 0.0254
+  },
+  {
+   "name": "Feet",
+   "abbr": "ft",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.3048
+  },
+  {
+   "name": "Yards",
+   "abbr": "yd",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.9144
+  },
+  {
+   "name": "Miles",
+   "abbr": "mi",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1609.344
+  },
+  {
+   "name": "Nautical miles",
+   "abbr": "nmi",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1852
+  },
+  {
+   "name": "paperclips",
+   "abbr": "paperclips",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 0.035052
+  },
+  {
+   "name": "hands",
+   "abbr": "hands",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 0.18669
+  },
+  {
+   "name": "jumbo jets",
+   "abbr": "jumbo jets",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 76
+  }
+ ],
+ "Weight": [
+  {
+   "name": "Carats",
+   "abbr": "CD",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.0002
+  },
+  {
+   "name": "Milligrams",
+   "abbr": "mg",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1e-06
+  },
+  {
+   "name": "Centigrams",
+   "abbr": "cg",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1e-05
+  },
+  {
+   "name": "Decigrams",
+   "abbr": "dg",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.0001
+  },
+  {
+   "name": "Grams",
+   "abbr": "g",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.001
+  },
+  {
+   "name": "Dekagrams",
+   "abbr": "dag",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.01
+  },
+  {
+   "name": "Hectograms",
+   "abbr": "hg",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.1
+  },
+  {
+   "name": "Kilograms",
+   "abbr": "kg",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Metric tonnes",
+   "abbr": "t",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000
+  },
+  {
+   "name": "Ounces",
+   "abbr": "oz",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.028349523125
+  },
+  {
+   "name": "Pounds",
+   "abbr": "lb",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 0.45359237
+  },
+  {
+   "name": "Stone",
+   "abbr": "st",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 6.35029318
+  },
+  {
+   "name": "Short tons (US)",
+   "abbr": "ton (US)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 907.18474
+  },
+  {
+   "name": "Long tons (UK)",
+   "abbr": "ton (UK)",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1016.0469088
+  },
+  {
+   "name": "snowflakes",
+   "abbr": "snowflakes",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 2e-06
+  },
+  {
+   "name": "soccer balls",
+   "abbr": "soccer balls",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 0.4325
+  },
+  {
+   "name": "elephants",
+   "abbr": "elephants",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 4000
+  },
+  {
+   "name": "whales",
+   "abbr": "whales",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 90000
+  }
+ ],
+ "Temperature": [
+  {
+   "name": "Celsius",
+   "abbr": "°C",
+   "source": true,
+   "target": false,
+   "whimsical": false
+  },
+  {
+   "name": "Fahrenheit",
+   "abbr": "°F",
+   "source": false,
+   "target": true,
+   "whimsical": false
+  },
+  {
+   "name": "Kelvin",
+   "abbr": "K",
+   "source": false,
+   "target": false,
+   "whimsical": false
+  }
+ ],
+ "Energy": [
+  {
+   "name": "Electron volts",
+   "abbr": "eV",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1.602176565e-19
+  },
+  {
+   "name": "Joules",
+   "abbr": "J",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Kilojoules",
+   "abbr": "kJ",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000
+  },
+  {
+   "name": "Thermal calories",
+   "abbr": "cal",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 4.184
+  },
+  {
+   "name": "Food calories",
+   "abbr": "kcal",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 4184
+  },
+  {
+   "name": "Foot-pounds",
+   "abbr": "ft•lb",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1.3558179483314
+  },
+  {
+   "name": "British thermal units",
+   "abbr": "BTU",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1055.056
+  },
+  {
+   "name": "batteries",
+   "abbr": "batteries",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 9000
+  },
+  {
+   "name": "bananas",
+   "abbr": "bananas",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 439614
+  },
+  {
+   "name": "slices of cake",
+   "abbr": "slices of cake",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 1046700
+  },
+  {
+   "name": "Kilowatt-hours",
+   "abbr": "kWh",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 3600000
+  }
+ ],
+ "Area": [
+  {
+   "name": "Square millimeters",
+   "abbr": "mm²",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1e-06
+  },
+  {
+   "name": "Square centimeters",
+   "abbr": "cm²",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.0001
+  },
+  {
+   "name": "Square meters",
+   "abbr": "m²",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Hectares",
+   "abbr": "ha",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 10000
+  },
+  {
+   "name": "Square kilometers",
+   "abbr": "km²",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000000
+  },
+  {
+   "name": "Square inches",
+   "abbr": "in²",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.00064516
+  },
+  {
+   "name": "Square feet",
+   "abbr": "ft²",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 0.09290304
+  },
+  {
+   "name": "Square yards",
+   "abbr": "yd²",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.83612736
+  },
+  {
+   "name": "Acres",
+   "abbr": "ac",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 4046.8564224
+  },
+  {
+   "name": "Square miles",
+   "abbr": "mi²",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 2589988.110336
+  },
+  {
+   "name": "hands",
+   "abbr": "hands",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 0.012516104
+  },
+  {
+   "name": "sheets of paper",
+   "abbr": "sheets of paper",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 0.06032246
+  },
+  {
+   "name": "soccer fields",
+   "abbr": "soccer fields",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 10869.66
+  },
+  {
+   "name": "castles",
+   "abbr": "castles",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 100000
+  }
+ ],
+ "Speed": [
+  {
+   "name": "Centimeters per second",
+   "abbr": "cm/s",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Meters per second",
+   "abbr": "m/s",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 100
+  },
+  {
+   "name": "Kilometers per hour",
+   "abbr": "km/h",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 27.77777777777778
+  },
+  {
+   "name": "Feet per second",
+   "abbr": "ft/s",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 30.48
+  },
+  {
+   "name": "Miles per hour",
+   "abbr": "mph",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 44.7
+  },
+  {
+   "name": "Knots",
+   "abbr": "kn",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 51.44
+  },
+  {
+   "name": "Mach",
+   "abbr": "M",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 34030
+  },
+  {
+   "name": "turtles",
+   "abbr": "turtles",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 8.94
+  },
+  {
+   "name": "horses",
+   "abbr": "horses",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 2011.5
+  },
+  {
+   "name": "jets",
+   "abbr": "jets",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 24585
+  }
+ ],
+ "Time": [
+  {
+   "name": "Microseconds",
+   "abbr": "µs",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1e-06
+  },
+  {
+   "name": "Milliseconds",
+   "abbr": "ms",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.001
+  },
+  {
+   "name": "Seconds",
+   "abbr": "s",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Minutes",
+   "abbr": "min",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 60
+  },
+  {
+   "name": "Hours",
+   "abbr": "hr",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 3600
+  },
+  {
+   "name": "Days",
+   "abbr": "d",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 86400
+  },
+  {
+   "name": "Weeks",
+   "abbr": "wk",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 604800
+  },
+  {
+   "name": "Years",
+   "abbr": "yr",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 31557600
+  }
+ ],
+ "Power": [
+  {
+   "name": "Watts",
+   "abbr": "W",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Kilowatts",
+   "abbr": "kW",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000
+  },
+  {
+   "name": "Horsepower (US)",
+   "abbr": "hp (US)",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 745.6998715822702
+  },
+  {
+   "name": "Foot-pounds/minute",
+   "abbr": "ft•lb/min",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.0225969658055233
+  },
+  {
+   "name": "BTUs/minute",
+   "abbr": "BTU/min",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 17.58426666666667
+  },
+  {
+   "name": "light bulbs",
+   "abbr": "light bulbs",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 60
+  },
+  {
+   "name": "horses",
+   "abbr": "horses",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 745.7
+  },
+  {
+   "name": "train engines",
+   "abbr": "train engines",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 2982799.486329081
+  }
+ ],
+ "Data": [
+  {
+   "name": "Bits",
+   "abbr": "b",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1.25e-07
+  },
+  {
+   "name": "Nibble",
+   "abbr": "nybl",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 5e-07
+  },
+  {
+   "name": "Bytes",
+   "abbr": "B",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1e-06
+  },
+  {
+   "name": "Kilobits",
+   "abbr": "Kb",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.000125
+  },
+  {
+   "name": "Kibibits",
+   "abbr": "Ki",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.000128
+  },
+  {
+   "name": "Kilobytes",
+   "abbr": "KB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.001
+  },
+  {
+   "name": "Kibibytes",
+   "abbr": "KiB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.001024
+  },
+  {
+   "name": "Megabits",
+   "abbr": "Mb",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.125
+  },
+  {
+   "name": "Mebibits",
+   "abbr": "Mi",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.131072
+  },
+  {
+   "name": "Megabytes",
+   "abbr": "MB",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Mebibytes",
+   "abbr": "MiB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1.048576
+  },
+  {
+   "name": "Gigabits",
+   "abbr": "Gb",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 125
+  },
+  {
+   "name": "Gibibits",
+   "abbr": "Gi",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 134.217728
+  },
+  {
+   "name": "floppy disks",
+   "abbr": "floppy disks",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 1.47456
+  },
+  {
+   "name": "Gigabytes",
+   "abbr": "GB",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000
+  },
+  {
+   "name": "CDs",
+   "abbr": "CDs",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 700
+  },
+  {
+   "name": "Gibibytes",
+   "abbr": "GiB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1073.741824
+  },
+  {
+   "name": "DVDs",
+   "abbr": "DVDs",
+   "source": false,
+   "target": false,
+   "whimsical": true,
+   "factor": 4700
+  },
+  {
+   "name": "Terabits",
+   "abbr": "Tb",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 125000
+  },
+  {
+   "name": "Tebibits",
+   "abbr": "Ti",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 137438.953472
+  },
+  {
+   "name": "Terabytes",
+   "abbr": "TB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000000
+  },
+  {
+   "name": "Tebibytes",
+   "abbr": "TiB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1099511.627776
+  },
+  {
+   "name": "Petabits",
+   "abbr": "Pb",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 125000000
+  },
+  {
+   "name": "Pebibits",
+   "abbr": "Pi",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 140737488.355328
+  },
+  {
+   "name": "Petabytes",
+   "abbr": "PB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000000000
+  },
+  {
+   "name": "Pebibytes",
+   "abbr": "PiB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1125899906.842624
+  },
+  {
+   "name": "Exabits",
+   "abbr": "E",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 125000000000
+  },
+  {
+   "name": "Exbibits",
+   "abbr": "Ei",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 144115188075.85587
+  },
+  {
+   "name": "Exabytes",
+   "abbr": "EB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000000000000
+  },
+  {
+   "name": "Exbibytes",
+   "abbr": "EiB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1152921504606.847
+  },
+  {
+   "name": "Zetabits",
+   "abbr": "Z",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 125000000000000
+  },
+  {
+   "name": "Zebibits",
+   "abbr": "Zi",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 147573952589676.4
+  },
+  {
+   "name": "Zetabytes",
+   "abbr": "ZB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000000000000000
+  },
+  {
+   "name": "Zebibytes",
+   "abbr": "ZiB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1180591620717411.2
+  },
+  {
+   "name": "Yottabits",
+   "abbr": "Y",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 125000000000000000
+  },
+  {
+   "name": "Yobibits",
+   "abbr": "Yi",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1.5111572745182864e+17
+  },
+  {
+   "name": "Yottabytes",
+   "abbr": "YB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1000000000000000000
+  },
+  {
+   "name": "Yobibytes",
+   "abbr": "YiB",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 1.208925819614629e+18
+  }
+ ],
+ "Pressure": [
+  {
+   "name": "Atmospheres",
+   "abbr": "atm",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Bars",
+   "abbr": "ba",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 0.9869232667160128
+  },
+  {
+   "name": "Kilopascals",
+   "abbr": "kPa",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.0098692326671601
+  },
+  {
+   "name": "Millimeters of mercury ",
+   "abbr": "mmHg",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.0013155687145324
+  },
+  {
+   "name": "Pascals",
+   "abbr": "Pa",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 9.869232667160129e-06
+  },
+  {
+   "name": "Pounds per square inch",
+   "abbr": "psi",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.068045961016531
+  }
+ ],
+ "Angle": [
+  {
+   "name": "Degrees",
+   "abbr": "deg",
+   "source": true,
+   "target": false,
+   "whimsical": false,
+   "factor": 1
+  },
+  {
+   "name": "Radians",
+   "abbr": "rad",
+   "source": false,
+   "target": true,
+   "whimsical": false,
+   "factor": 57.29577951308233
+  },
+  {
+   "name": "Gradians",
+   "abbr": "grad",
+   "source": false,
+   "target": false,
+   "whimsical": false,
+   "factor": 0.9
+  }
+ ]
+}

@@ -2,4 +2,7 @@
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(MSBuildProjectExtension)' == '.vcxproj' and '$(VisualStudioVersion)' == '17.0'">
+    <ResolveNuGetPackages>false</ResolveNuGetPackages>
+  </PropertyGroup>
 </Project>
